@@ -1,0 +1,6 @@
+{
+  "name": "Qurbon Hayiti 3D Class Celebration",
+  "description": "An ultra-cinematic interactive 3D Eid al-Adha experience for a school class, featuring floating cards, memories, fireworks, and dynamic audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
